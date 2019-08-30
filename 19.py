@@ -1,16 +1,16 @@
 # count=0
-# while(count<=10):
+# while(count<=5):
 #     print(count)
 #     count=count+1
 
 # print('Ok im done with 10')
 
 # rank=int(input('enter number'))
-# while(rank!=12):
+# while(rank!=10):
 #     print("Rank is ",rank)
 #     rank+=1
 
-# #to find the sum of numbers
+#to find the sum of numbers
 
 # number=10
 
@@ -35,7 +35,7 @@
 
 # multiple=1
 # i=2
-# while multiple<=100 and i<=100:
+# while multiple<=10 and i<=10:
 #     print(multiple*i)
 #     i+=2
 
@@ -61,15 +61,15 @@
 
 # while num<age:
 #     if num==0:
-#         #num+=1
+#         num+=1
 #         continue #from here it will go while num<age line
 #     if num %2==0:
 #         print(num)
 
-    #if num>10:
-    # break
+# if num>10:
+#     break
 
-    # num+=1
+#     num+=1
 
 # n=5
 # while n>0:
@@ -90,4 +90,3 @@ while n>0:
         break
     else:
         print('Loop ended')
-        
