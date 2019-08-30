@@ -24,3 +24,5 @@ yuri=employee(500,'yuri',18)
 
 print(yuri.pay)
 
+print
+
