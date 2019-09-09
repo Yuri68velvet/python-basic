@@ -304,3 +304,5 @@ print('Yuri get the bonus point:',yuri.point)
 
 
 
+
+

@@ -20,19 +20,20 @@
 
 # print(ans)
 
-born_year=int(input('Enter your born year:'))
+# born_year=int(input('Enter your born year:'))
 
-answer=born_year+100
+# answer=born_year+100
 
-print(answer)
+# print(answer)
 
 def pencase(dictionary):
     pencils=list(dictionary.values())
 
     for pen in pencils:
-         num=pencils.count(pen)
-
-         print(f'There are {num}{pen} pens')
+        num=pencils.count(pen)
+        
+        print(f'There are {num}{pen} pens')
+         
 
 pencil={}
 
